@@ -106,5 +106,5 @@ B、PL/SQL Developer 安装注意点：
 有疑惑?
 ----------
 
-如果你有任何问题，可以随时查阅
+如果你有任何问题，可以随时查阅1
 [哈咯（Holaever）数据库工程面板](https://trello.com/b/h0rHIVo0)。

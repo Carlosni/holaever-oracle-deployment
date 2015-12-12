@@ -2,12 +2,11 @@
 ==============================
 Holaever Oracle Deployment
 
-64位WIN7+oracle11g+plsql安装
-Oracle 11g R2 for Win7旗舰版（64位）的安装步骤
+## Oracle 11g
 
-1、下载Oracle 11g R2 for Windows的版本 
-下载地址：http://www.oracle.com/technetwork/database/enterprise-edition/downloads/index.html 
-其中包括两个压缩包：win64_11gR2_database_1of2.zip，win64_11gR2_database_2of2.zip 
+> Windows 7 旗舰版（64位） + Oracle11g + Plsql
+
+1、[下载](http://www.oracle.com/technetwork/database/enterprise-edition/downloads/index.html) Oracle 11g R2 for Windows，其中包括两个压缩包：`win64_11gR2_database_1of2.zip`，`win64_11gR2_database_2of2.zip`。
 
 2、将两个压缩包解压到同一个目录下，即“database”，然后单击解压目录下的“setup.exe”文件： 
 

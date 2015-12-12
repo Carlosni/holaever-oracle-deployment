@@ -66,6 +66,8 @@ Oracle完成安装后，会在系统中进行服务的注册，在注册的这�
 （1）OracleOraDb11g_home1TNSListener：表示监听服务，如果客户端要想连接到数据库，此服务必须打开。在程序开发中该服务也要起作用。 
 （2）OracleServiceORCL：表示数据库的主服务，命名规则：OracleService数据库名称。此服务必须打开，否则Oracle根本无法使用。 
 
+## client 11g
+
 附： 
 
 A、32位Oracle 11g Client（win32_11gR2_client.zip）的安装注意点： 

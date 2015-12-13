@@ -103,7 +103,7 @@ B、PL/SQL Developer 安装注意点：
 
   oci library : C:\app\Administrator\product\11.2.0\client_1\bin\oci.dll
 
-有疑惑?
+有疑惑?1
 ----------
 
 如果你有任何问题，可以随时查阅
